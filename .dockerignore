@@ -1,0 +1,16 @@
+# Скрытый мусор операционной системы
+.git
+.github
+.gitignore
+.dockerignore
+
+# Кэш интерпретатора Python (в обход GIL)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Локальные логи и дампы памяти ТСД
+*.log
+*.dump
+.env
