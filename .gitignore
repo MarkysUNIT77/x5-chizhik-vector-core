@@ -1,0 +1,16 @@
+# LICENSE: MIT (c) 2026 MarkysUNIT77. All rights reserved.
+
+# Блокировка системных папок Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Локальные конфиги и секреты
+.env
+.local
+
+# Защита от утечки бинарных весов и кэша моделей
+*.safetensors
+*.bin
+*.pt
+*.pth
