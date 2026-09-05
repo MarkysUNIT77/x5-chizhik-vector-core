@@ -1,0 +1,10 @@
+# LICENSE: MIT License (c) 2026 Markys Gariboldo. All rights reserved.
+# CONTOUR: M-498 | UNIT: 77 | PROTOCOL: X5_CHIZHIK_VECTOR_CORE_HD
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+.cache/
+*.bin
