@@ -1,0 +1,29 @@
+# ===================================================================
+# LICENSE: MIT License (c) 2026 Markys Gariboldo. All rights reserved.
+# CONTOUR: M-498 | UNIT: 77 | PROTOCOL: X5_CHIZHIK_VECTOR_CORE_HD
+# CORE: 12.1_PRODUCTION // MATRIX V6 // DUAL-WING TOPOLOGY
+# ENGINE: NUMBA_FUSED_SINGLE_PASS (nogil=True) // NUMPY_FALLBACK
+# ===================================================================
+
+# ── Стандартная поставка Python (не требует pip install) ────────────
+# asyncio    — встроенный (Python 3.4+)
+# tempfile   — встроенный
+# os        — встроенный
+# typing    — встроенный (Python 3.5+)
+
+# ── Движок: NUMBA_FUSED (рекомендуется) ──────────────────────────────
+# @njit(nogil=True, fastmath=True, cache=True)
+# Fused single-pass: модуляция + норма + dot в одном цикле.
+# nogil=True: GIL отпущен, потоки работают параллельно на разных ядрах.
+# LLVM auto-vectorize → SIMD для float32.
+# Если не установлен — автоматический fallback на чистый NumPy.
+numba>=0.57.0
+
+# ── Базис: NumPy (обязательно) ──────────────────────────────────────
+# SIMD-векторизованные примитивы, np.memmap, float32.
+numpy>=1.24.0
+
+# ===================================================================
+# INSTALL: pip install -r requirements.txt
+# RUN:    python vector_core.py  (тест)  |  python real_benchmark.py
+# ===================================================================
