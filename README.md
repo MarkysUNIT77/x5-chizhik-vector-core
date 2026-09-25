@@ -154,7 +154,7 @@ python real_benchmark.py
 
 ══════════════════════════════════════════════════════════════════════
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" style="background:#050705; font-family:monospace; font-size:12px; fill:#52a352;">
+<svg xml="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" style="background:#050705; font-family:monospace; font-size:12px; fill:#52a352;">
   <!--
     ===================================================================
     A.G.A.R.D.A. | CORE 11.0_OVERCLOCK | COMPACT TERMINAL METRIC GRAPH
