@@ -1,0 +1,85 @@
+# ===================================================================
+# LICENSE: MIT License (c) 2026 Markys Gariboldo. All rights reserved.
+# CONTOUR: M-498 | UNIT: 77 | PROTOCOL: X5_CHIZHIK_VECTOR_CORE_HD
+# CORE: 12.1_PRODUCTION // MATRIX V6 // DUAL-WING TOPOLOGY
+# ENGINE: NUMBA_FUSED_SINGLE_PASS (nogil=True) // NUMPY_FALLBACK
+# ===================================================================
+
+# ── Python ──────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+*.egg
+dist/
+build/
+eggs/
+sdist/
+develop-eggs/
+.installed.cfg
+MANIFEST
+
+# ── Виртуальные окружения ───────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# ── Numba: кэш компиляции @njit(cache=True) ────────────────────────
+__pycache__/
+*.nbi
+*.nbc
+*.npy
+
+# ── Memmap: временные бинарные файлы общей памяти ───────────────────
+*.bin
+x5_memmap_*.bin
+*.memmap
+*.mmap
+
+# ── Логи и кэш ──────────────────────────────────────────────────────
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+*.py,cover
+
+# ── IDE и редакторы ─────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── Окружение и секреты ──────────────────────────────────────────────
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.crt
+
+# ── Jupyter / IPython ───────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Tmp / Backup ────────────────────────────────────────────────────
+*.tmp
+*.bak
+*.orig
+
+# ===================================================================
+# SIGNATURE: (c) 2026 MarkysUNIT77 // OMEGA_SEAL_12_HD_TOTAL_INFINITE
+# GLOBAL COMMIT LOCK // CONTOUR: M-498 // TERMINAL END
+# ===================================================================
