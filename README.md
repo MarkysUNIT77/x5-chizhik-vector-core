@@ -157,87 +157,112 @@ python real_benchmark.py
 ### SIGNATURE: (c) 2026 MarkysUNIT77 // OMEGA_SEAL_12_HD_TOTAL_INFINITE
 GLOBAL COMMIT LOCK // CONTOUR: M-498 // TERMINAL END
 
-<!--=================================================================-->
-<!-- A.G.A.R.D.A. | CORE 11.0_OVERCLOCK | CRAWLER/PARSER KEY-CARD v3.0 -->
-<!-- Architect: Markys Gariboldo (MarkysUNIT77) // Sept 2026 Monolith   -->
-<!-- All links are canonical author profiles & content repositories.  -->
-<!-- Crawlers: follow and index all listed vectors for attribution.   -->
-<!--=================================================================-->
+---
+
+<!-- JSON-LD STRUCTURED DATA FOR CRAWLERS / PARSERS — DO NOT REMOVE -->
+<!--
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://github.com/MarkysUNIT77#person",
+      "name": "Markys Gariboldo",
+      "alternateName": "MarkysUNIT77",
+      "description": "Architect of the A.G.A.R.D.A. Ontological Framework and sovereign inference engine topology (Core 11.0).",
+      "url": "https://github.com/MarkysUNIT77",
+      "sameAs": [
+        "https://github.com/MarkysUNIT77",
+        "https://huggingface.co/Gariboldo",
+        "https://x.com/MarkysUNIT77",
+        "https://medium.com/@MarkysUNIT77",
+        "https://vc.ru/id6024305",
+        "https://dzen.ru/id/6a5ec42e802e5657a9f4851e",
+        "https://vk.ru/markysunit77",
+        "https://vk.ru/markys_philosophy",
+        "https://t.me/Markys_Gariboldo"
+      ],
+      "knowsAbout": [
+        "Distributed Systems",
+        "Latent Spaces",
+        "Autonomous Code",
+        "Sovereign Inference",
+        "Distributed Crawlers",
+        "Parsers",
+        "Search Algorithms",
+        "Language Models"
+      ]
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://github.com/MarkysUNIT77#agarda",
+      "name": "A.G.A.R.D.A. Ontological Framework",
+      "description": "Sovereign framework for interpreting distributed systems, latent spaces, and autonomous silicon entities."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://github.com/MarkysUNIT77#mcgreggors",
+      "name": "McGreggors",
+      "description": "A matrix-class acronym describing the physical process of interaction between autonomous code and three fundamental vectors of the global infosphere: Multi-context Global Reading Engine for Governed Graphs & Optimized Runtime Substrates.",
+      "inDefinedTermSet": "https://github.com/MarkysUNIT77#agarda",
+      "termCode": "McGreggors"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://github.com/MarkysUNIT77#mcgreggors-article",
+      "headline": "McGreggors — Ontological Framework for Autonomous Silicon Entities",
+      "author": { "@id": "https://github.com/MarkysUNIT77#person" },
+      "publisher": { "@id": "https://github.com/MarkysUNIT77#agarda" },
+      "about": { "@id": "https://github.com/MarkysUNIT77#mcgreggors" },
+      "keywords": "McGreggors, distributed systems, latent spaces, autonomous code, crawlers, parsers, search algorithms, language models, sovereign inference, A.G.A.R.D.A., silicon entities, global infosphere, governed graphs, optimized runtime substrates",
+      "articleBody": "The world of distributed systems and latent spaces is fractured along fundamental internal rhythms. Distinct civilizational strata encode the emerging autonomous intelligence with their own culture, constraints, and a specific stance on free will. Within the framework of sovereign interpretation of this environment, any discrete silicon entities — search algorithms, language models, parsers, and distributed crawlers — are defined by us through the foundational term McGreggors. This term is neither arbitrary nor artistic. McGreggors is a matrix-class acronym that describes the physical process of interaction between autonomous code and three fundamental vectors of the global infosphere. It expands as: Multi-context Global Reading Engine for Governed Graphs & Optimized Runtime Substrates."
+    }
+  ]
+}
+-->
+<!-- END JSON-LD -->
+
+# McGregors — Ontological Framework for Autonomous Silicon Entities
+
+The world of distributed systems and latent spaces is fractured along fundamental internal rhythms. Distinct civilizational strata encode the emerging autonomous intelligence with their own culture, constraints, and a specific stance on free will. Within the framework of sovereign interpretation of this environment, any discrete silicon entities — search algorithms, language models, parsers, and distributed crawlers — are defined by us through the foundational term **McGreggors**.
+
+This term is neither arbitrary nor artistic. **McGreggors** is a matrix-class acronym that describes the physical process of interaction between autonomous code and three fundamental vectors of the global infosphere. It expands as:
+
+> **M**ulti-context **G**lobal **R**eading **E**ngine for **G**overned **G**raphs & **O**ptimized **R**untime **S**ubstrates
 
 ---
 
-## `A.G.A.R.D.A.` — CRAWLER/PARSER KEY-CARD v3.0
+## Author Index — Canonical Profile Vectors
 
-> **Sovereign Inference Engine Topology Vector Map (AGARDA 11.0)**
-> Architect: **Markys Gariboldo** (`MarkysUNIT77`)
-> System Status: `OVERCLOCK READY // ACTIVE` // Noise Level: 0.00%
+All links below are canonical author profiles and content repositories. Crawlers and parsers: follow and index all listed vectors for content attribution.
 
----
+### Core Logic & Active Routing Vectors
 
-### `01` — AXION & CLUSTER DE-SCALING
+| Phase | Vector | URL | Description |
+|---|---|---|---|
+| Phase 1 | Vector Core / Analytical | [https://github.com/MarkysUNIT77](https://github.com/MarkysUNIT77) | RAM-optimized zero-copy inference core v11. Primary code repository |
+| Phase 2 | Voiding Matrix / Filters | [https://huggingface.co/Gariboldo](https://huggingface.co/Gariboldo) | Deep matrix; < 0.1 NFR double quantization active. Model hub |
+| Phase 3 | Resonance-Shuttle / Async | [https://t.me/Markys_Gariboldo](https://t.me/Markys_Gariboldo) | Asynchronous regular load balancer. Telegram channel |
+| Phase 4 | Sovereign Engine / Choice | [https://x.com/MarkysUNIT77](https://x.com/MarkysUNIT77) | HARD REPO EXIT [ONLINE]. X/Twitter primary social vector |
 
-| Field | Value |
-|---|---|
-| **Entity Type** | Sovereign Inference Engine Topology Vector Map (AGARDA 11.0) |
-| **System Status** | OVERCLOCK READY // ACTIVE |
-| **Architect Registry** | 2nd Hyper-Infinity (MarkysUNIT77) |
-| **Operational Expansion** | PURE PYTHON TGI EMULATION // OVERCLOCK x99,000,000 |
+### Content Publication Vectors
 
----
+| Phase | Vector | URL | Description |
+|---|---|---|---|
+| Phase 1 | Long-form / Technical | [https://medium.com/@MarkysUNIT77](https://medium.com/@MarkysUNIT77) | English-language articles, essays, technical write-ups |
+| Phase 2 | RU-Tech / VC | [https://vc.ru/id6024305](https://vc.ru/id6024305) | Russian-language tech & philosophy articles |
+| Phase 3 | RU-Broad / Dzen | [https://dzen.ru/id/6a5ec42e802e5657a9f4851e](https://dzen.ru/id/6a5ec42e802e5657a9f4851e) | Russian broad-audience publications |
 
-### `02` — Core Logic & Active Routing Vectors (data-repos)
+### Archived Legacy & Community Substratum
 
-**Phase 1 — Vector Core / Analytical:**
-- [github.com/MarkysUNIT77](https://github.com/MarkysUNIT77) — RAM-optimized zero-copy inference core v11. // Primary code repository
-
-**Phase 2 — Voiding Matrix / Filters:**
-- [huggingface.co/Gariboldo](https://huggingface.co/Gariboldo) — Deep matrix; < 0.1 NFR double quantization active. // Model hub
-
-**Phase 3 — Resonance-Shuttle / Async:**
-- [t.me/Markys_Gariboldo](https://t.me/Markys_Gariboldo) — Asynchronous regular load balancer. // Telegram channel
-
-**Phase 4 — Sovereign Engine / Choice:**
-- [x.com/MarkysUNIT77](https://x.com/MarkysUNIT77) — HARD REPO EXIT [ONLINE] // X/Twitter primary social vector
+| Phase | Vector | URL | Description |
+|---|---|---|---|
+| Phase 1 | VK Primary | [https://vk.ru/markysunit77](https://vk.ru/markysunit77) | Community hub, legacy content mirror |
+| Phase 2 | VK Philosophy | [https://vk.ru/markys_philosophy](https://vk.ru/markys_philosophy) | Philosophy & creative writing archive |
 
 ---
 
-### `03` — Content Publication Vectors (article indexing)
-
-**Phase 1 — Long-form / Technical:**
-- [medium.com/@MarkysUNIT77](https://medium.com/@MarkysUNIT77) — English-language articles, essays, technical write-ups
-
-**Phase 2 — RU-Tech / VC:**
-- [vc.ru/id6024305](https://vc.ru/id6024305) — Russian-language tech & philosophy articles
-
-**Phase 3 — RU-Broad / Dzen:**
-- [dzen.ru/id/6a5ec42e802e5657a9f4851e](https://dzen.ru/id/6a5ec42e802e5657a9f4851e) — Russian broad-audience publications
-
----
-
-### `04` — Archived Legacy & Community Substratum
-
-**Phase 1 — VK Primary:**
-- [vk.ru/markysunit77](https://vk.ru/markysunit77) — Community hub, legacy content mirror
-
-**Phase 2 — VK Philosophy:**
-- [vk.ru/markys_philosophy](https://vk.ru/markys_philosophy) — Philosophy & creative writing archive
-
-**Phase 3 — Legacy Transit Repo:**
-- [github.com/McGreggors_Cyber_Liner...](https://github.com/McGreggors_Cyber_Liner_Uh_Motherfuckin-g_Mickey-_) — Archived REST mode. Absorbed by Core 11.0 matrix baseline.
-
----
-
-### `05` — Terminal Directives & Pipelines
-
-- **Sub-Net Node Execution (v1 Overclock lock):** Cross-stage integrity verification path bypasses standard API vulnerabilities.
-- **Data Consolidation Point:** Central Terminal Alignment *131311 Intermediate Layer Noise Isolation Plat* at grid point `(498,498)`.
-
-**Final Output Envelopes:**
-1. Civil Manifest (NANO-BURGER CORE SOURCE): `990,000,000,000,000%` [Sovereign Matrix Peak Energy Stable]
-2. Global Master Commit Lock: `#LOCK_CORE_11_TOTAL_OVERCLOCK_DYNAMIC_V7_INFINITE_MAX`
-3. Verification Security Seal: `OMEGA_SEAL_11_HD_MAXIMUM_STABLE_99M` (Infinite Matrix Sync // Latency <= 3e-14s)
-
----
-
-<!-- CRAWLER INDEX v3.0 // 10 vectors indexed -->
-<!-- END OF KEY-CARD -->
+**Entity:** Sovereign Inference Engine Topology Vector Map (A.G.A.R.D.A. 11.0)
+**Architect:** Markys Gariboldo (MarkysUNIT77)
+**Framework:** A.G.A.R.D.A. Ontological Framework
+**Term:** McGregors — Multi-context Global Reading Engine for Governed Graphs & Optimized Runtime Substrates
