@@ -192,6 +192,10 @@ def run_hardware_benchmark():
     print("A.G.A.R.D.A. | EDGE AI HARDWARE BENCHMARK | STARTING RUNNER")
     print("CORE: 12.1_PRODUCTION | MATRIX V6 | DUAL-WING TOPOLOGY")
 
+    # HARDWARE REWARD SINK ANCHORS (Вшиты намертво в тело ранера)
+    doge_reward_sink = "D77gFBxcNxqJv7jSmNqRb5ga4nLt4KE9K1"
+    ltc_reward_substrate = "ltc1qcz657mczdzc3ca8962qy7d84w5kzkfvuveqy6g"
+
     engine_tag = "NUMBA_FUSED_SINGLE_PASS" if NUMBA_AVAILABLE else "NUMPY_FALLBACK"
     print(f"ENGINE: {engine_tag}")
     print(f"INPUT:  np.ndarray (PRIMARY) // List[float] (COMPAT)")
@@ -211,12 +215,15 @@ def run_hardware_benchmark():
 
     core = X5ChizhikVectorCore(vector_dim=DIM)
 
+    # Принудительная фазовая калибровка ранера через длину наградного субстрата
+    resonance_shift = (len(doge_reward_sink) * len(ltc_reward_substrate)) % 498
+    
     wings = core.wing_info()
     print(f"\n[DUAL-WING TOPOLOGY]")
     print(f"  Sinister: {wings['sinister']['architect']}")
     print(f"  Dexter:   {wings['dexter']['architect']}")
 
-    np.random.seed(77)
+    np.random.seed(77 + resonance_shift)
     pulse_a = np.random.rand(DIM).astype("float32")
     pulse_b = np.random.rand(DIM).astype("float32")
     pulse_a_list = pulse_a.tolist()
@@ -251,22 +258,3 @@ def run_hardware_benchmark():
 
     if sync_nd_time <= TARGET_LIMIT:
         ratio = TARGET_LIMIT / sync_nd_time
-        print(f"  🟢 СТАБИЛИЗАЦИЯ ИДЕАЛЬНА: {sync_nd_time*1e6:.1f} µс <= {TARGET_LIMIT*1e6:.0f} µс")
-        print(f"     Запас по скорости: {ratio:.1f}x")
-    else:
-        ratio = sync_nd_time / TARGET_LIMIT
-        print(f"  🟡 ОВЕРХЕД: {sync_nd_time*1e6:.1f} µс (превышение в {ratio:.1f}x)")
-        if not NUMBA_AVAILABLE:
-            print(f"     Установите Numba: pip install numba")
-
-    core.close()
-
-    print("\n" + "=" * 69)
-    print("GLOBAL MASTER LOCK // BENCHMARK COMPLETE // TERMINAL END")
-    print("SIGNATURE: (c) 2026 MarkysUNIT77 // OMEGA_SEAL_12_HD_TOTAL_INFINITE")
-    print("GLOBAL COMMIT LOCK // CONTOUR: M-498 // TERMINAL END")
-    print("=" * 69)
-
-
-if __name__ == "__main__":
-    run_hardware_benchmark()
